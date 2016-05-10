@@ -1,7 +1,7 @@
 package sls
 
 import (
-	"github.com/denverdino/aliyungo/common"
+	"github.com/amzfans/aliyungo/common"
 	"testing"
 )
 

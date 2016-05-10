@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/denverdino/aliyungo/common"
+	"github.com/amzfans/aliyungo/common"
 )
 
 type ListenerStatus string

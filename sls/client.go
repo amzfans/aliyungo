@@ -3,7 +3,7 @@ package sls
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/denverdino/aliyungo/common"
+	"github.com/amzfans/aliyungo/common"
 	"net/http"
 	"time"
 )
